@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="1" branch-rate="1" lines-covered="0" lines-valid="0" branches-covered="0" branches-valid="0" complexity="NaN" version="0" timestamp="1614675405">
+  <sources>
+    <source>/home/runner/work/poc-sqlalchemy/poc-sqlalchemy</source>
+  </sources>
+  <packages>
+    <package name="src" line-rate="1" branch-rate="1" complexity="NaN">
+      <classes>
+        <class name="__init__.py" filename="/home/runner/work/poc-sqlalchemy/poc-sqlalchemy/src/__init__.py" line-rate="1" branch-rate="1" complexity="NaN">
+          <methods />
+          <lines />
+        </class>
+      </classes>
+    </package>
+    <package name="src.poc" line-rate="1" branch-rate="1" complexity="NaN">
+      <classes>
+        <class name="__init__.py" filename="/home/runner/work/poc-sqlalchemy/poc-sqlalchemy/src/poc/__init__.py" line-rate="1" branch-rate="1" complexity="NaN">
+          <methods />
+          <lines />
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
